@@ -20,11 +20,11 @@ $ ./configure
 $ sudo make install
 ```
 
-The build examples:
+Then build examples, e.g.:
 
 ```
 $ cd examples/CustomChars
 ```
 
-Follow steps in README.txt (you can execute the README in bash from command
+Follow the steps in README.txt (you can execute the README in bash from command
 line as well).
