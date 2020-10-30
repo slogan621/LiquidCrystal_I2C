@@ -7,7 +7,7 @@ supports I2C).
 Arduino Instructions
 
 Copy to the libraries dir of the IDE using standard process. Then load
-one of the sketches into the IDE in exampiles directory, compile, burn to
+one of the sketches into the IDE in examples directory, compile, burn to
 device as usual.
 
 Linux Instructions
